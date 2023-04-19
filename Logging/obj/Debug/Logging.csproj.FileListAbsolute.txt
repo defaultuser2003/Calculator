@@ -1,0 +1,7 @@
+D:\Visual Studio\software design\simpleCalculator\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+D:\Visual Studio\software design\simpleCalculator\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\Visual Studio\software design\simpleCalculator\Logging\bin\Debug\Logging.dll.config
+D:\Visual Studio\software design\simpleCalculator\Logging\bin\Debug\Logging.dll
+D:\Visual Studio\software design\simpleCalculator\Logging\bin\Debug\Logging.pdb
+D:\Visual Studio\software design\simpleCalculator\Logging\obj\Debug\Logging.dll
+D:\Visual Studio\software design\simpleCalculator\Logging\obj\Debug\Logging.pdb

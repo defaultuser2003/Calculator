@@ -1,0 +1,12 @@
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinaryClient.exe.config
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinaryClient.exe
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinaryClient.pdb
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinary.dll
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinary.pdb
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\bin\Debug\IBinary.dll.config
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.csproj.AssemblyReference.cache
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.csproj.CoreCompileInputs.cache
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.csproj.CopyComplete
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.exe
+D:\Visual Studio\software design\simpleCalculator\CalculatorClient\obj\Debug\IBinaryClient.pdb
