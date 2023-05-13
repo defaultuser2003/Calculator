@@ -12,3 +12,10 @@ D:\VS\softwareDesign\simpleCaculator\Logging\obj\Debug\Logging.csproj.AssemblyRe
 D:\VS\softwareDesign\simpleCaculator\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
 D:\VS\softwareDesign\simpleCaculator\Logging\obj\Debug\Logging.dll
 D:\VS\softwareDesign\simpleCaculator\Logging\obj\Debug\Logging.pdb
+D:\VS\softwareDesign\simpleCalculator\Logging\bin\Debug\Logging.dll.config
+D:\VS\softwareDesign\simpleCalculator\Logging\bin\Debug\Logging.dll
+D:\VS\softwareDesign\simpleCalculator\Logging\bin\Debug\Logging.pdb
+D:\VS\softwareDesign\simpleCalculator\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCalculator\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCalculator\Logging\obj\Debug\Logging.dll
+D:\VS\softwareDesign\simpleCalculator\Logging\obj\Debug\Logging.pdb
