@@ -5,3 +5,10 @@ D:\VS\softwareDesign\simpleCaculator\IBinary\bin\Debug\IBinary.dll
 D:\VS\softwareDesign\simpleCaculator\IBinary\bin\Debug\IBinary.pdb
 D:\VS\softwareDesign\simpleCaculator\IBinary\obj\Debug\IBinary.dll
 D:\VS\softwareDesign\simpleCaculator\IBinary\obj\Debug\IBinary.pdb
+D:\VS\softwareDesign\simpleCalculator\IBinary\obj\Debug\IBinary.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCalculator\IBinary\obj\Debug\IBinary.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCalculator\IBinary\obj\Debug\IBinary.dll
+D:\VS\softwareDesign\simpleCalculator\IBinary\obj\Debug\IBinary.pdb
+D:\VS\softwareDesign\simpleCalculator\IBinary\bin\Debug\IBinary.dll.config
+D:\VS\softwareDesign\simpleCalculator\IBinary\bin\Debug\IBinary.dll
+D:\VS\softwareDesign\simpleCalculator\IBinary\bin\Debug\IBinary.pdb
