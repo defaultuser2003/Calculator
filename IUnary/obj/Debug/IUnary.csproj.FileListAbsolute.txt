@@ -5,3 +5,10 @@ D:\Visual Studio\software design\simpleCalculator\IUnary\bin\Debug\IUnary.dll
 D:\Visual Studio\software design\simpleCalculator\IUnary\bin\Debug\IUnary.pdb
 D:\Visual Studio\software design\simpleCalculator\IUnary\obj\Debug\IUnary.dll
 D:\Visual Studio\software design\simpleCalculator\IUnary\obj\Debug\IUnary.pdb
+D:\VS\softwareDesign\simpleCaculator\IUnary\bin\Debug\IUnary.dll.config
+D:\VS\softwareDesign\simpleCaculator\IUnary\bin\Debug\IUnary.dll
+D:\VS\softwareDesign\simpleCaculator\IUnary\bin\Debug\IUnary.pdb
+D:\VS\softwareDesign\simpleCaculator\IUnary\obj\Debug\IUnary.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCaculator\IUnary\obj\Debug\IUnary.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCaculator\IUnary\obj\Debug\IUnary.dll
+D:\VS\softwareDesign\simpleCaculator\IUnary\obj\Debug\IUnary.pdb

@@ -1,7 +1,0 @@
-D:\Visual Studio\software design\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
-D:\Visual Studio\software design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
-D:\Visual Studio\software design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
-D:\Visual Studio\software design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll.config
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll

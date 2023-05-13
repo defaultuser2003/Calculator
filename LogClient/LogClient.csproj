@@ -51,6 +51,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\IBinary\IBinary.csproj">
+      <Project>{1838cbda-f924-4ab5-bb63-afd9f45cd009}</Project>
+      <Name>IBinary</Name>
+    </ProjectReference>
     <ProjectReference Include="..\IUnary\IUnary.csproj">
       <Project>{69736423-8d05-4e18-9e73-8aac171000c8}</Project>
       <Name>IUnary</Name>
@@ -58,10 +62,6 @@
     <ProjectReference Include="..\Logging\Logging.csproj">
       <Project>{f5298353-c1dc-4fd3-967b-d9cbc36341dc}</Project>
       <Name>Logging</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SimpleCalculator\IBinary.csproj">
-      <Project>{0755ddb9-42cc-46b5-87c9-3d19a97c50a3}</Project>
-      <Name>IBinary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -16,3 +16,21 @@ D:\Visual Studio\software design\simpleCalculator\LogClient\obj\Debug\LogClient.
 D:\Visual Studio\software design\simpleCalculator\LogClient\bin\Debug\IUnary.dll
 D:\Visual Studio\software design\simpleCalculator\LogClient\bin\Debug\IUnary.pdb
 D:\Visual Studio\software design\simpleCalculator\LogClient\bin\Debug\IUnary.dll.config
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\LogClient.exe.config
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\LogClient.exe
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\LogClient.pdb
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IBinary.dll
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IUnary.dll
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\Logging.dll
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IBinary.pdb
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IBinary.dll.config
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IUnary.pdb
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\IUnary.dll.config
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\Logging.pdb
+D:\VS\softwareDesign\simpleCaculator\LogClient\bin\Debug\Logging.dll.config
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.csproj.SuggestedBindingRedirects.cache
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.csproj.CopyComplete
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.exe
+D:\VS\softwareDesign\simpleCaculator\LogClient\obj\Debug\LogClient.pdb

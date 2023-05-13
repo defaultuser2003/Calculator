@@ -10,3 +10,15 @@ D:\Visual Studio\software design\simpleCalculator\IUnaryClient\obj\Debug\IUnaryC
 D:\Visual Studio\software design\simpleCalculator\IUnaryClient\obj\Debug\IUnaryClient.csproj.CopyComplete
 D:\Visual Studio\software design\simpleCalculator\IUnaryClient\obj\Debug\IUnaryClient.exe
 D:\Visual Studio\software design\simpleCalculator\IUnaryClient\obj\Debug\IUnaryClient.pdb
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnaryClient.exe.config
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnaryClient.exe
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnaryClient.pdb
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnary.dll
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnary.pdb
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\bin\Debug\IUnary.dll.config
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.csproj.SuggestedBindingRedirects.cache
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.csproj.CopyComplete
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.exe
+D:\VS\softwareDesign\simpleCaculator\IUnaryClient\obj\Debug\IUnaryClient.pdb

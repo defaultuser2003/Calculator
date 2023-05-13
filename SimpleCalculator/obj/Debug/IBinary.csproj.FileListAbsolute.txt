@@ -1,7 +1,0 @@
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\bin\Debug\IBinary.dll.config
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\bin\Debug\IBinary.dll
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\bin\Debug\IBinary.pdb
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\obj\Debug\IBinary.csproj.AssemblyReference.cache
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\obj\Debug\IBinary.csproj.CoreCompileInputs.cache
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\obj\Debug\IBinary.dll
-D:\Visual Studio\software design\simpleCalculator\SimpleCalculator\obj\Debug\IBinary.pdb

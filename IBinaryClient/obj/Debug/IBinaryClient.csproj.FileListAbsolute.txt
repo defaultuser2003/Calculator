@@ -1,0 +1,12 @@
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.csproj.SuggestedBindingRedirects.cache
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinaryClient.exe.config
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinaryClient.exe
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinaryClient.pdb
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinary.dll
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinary.pdb
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\bin\Debug\IBinary.dll.config
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.csproj.CopyComplete
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.exe
+D:\VS\softwareDesign\simpleCaculator\IBinaryClient\obj\Debug\IBinaryClient.pdb
