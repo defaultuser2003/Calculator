@@ -170,23 +170,23 @@ namespace UI
         private void equal_Click(object sender, EventArgs e)
         {
 
-            // 获取文本框中的表达式
+            // Get the expression in the text box
             string expression = formation.Text;
 
-            // 定义正则表达式来提取数字和运算符
+            // Define regular expressions to extract numbers and operators
             string pattern = @"(\d+\.?\d*)([\+\-\*/]|Log)(\d+\.?\d*)";
 
-            // 使用正则表达式匹配表达式并提取数字和运算符
+            // Use regular expressions to match expressions and extract numbers and operators
             Match match = Regex.Match(expression, pattern);
 
             if (match.Success)
             {
-                // 提取第一个数字、第二个数字和运算符
+                // Extract the first digit, the second digit, and the operator
                 double num1 = double.Parse(match.Groups[1].Value);
                 double num2 = double.Parse(match.Groups[3].Value);
                 string op = match.Groups[2].Value;
 
-                // 根据运算符创建对应的IBinaryOperation对象
+                // Create the corresponding IBinaryOperation object from the operator
                 IBinaryOperation binaryOperation = null;
                 switch (op)
                 {
@@ -207,12 +207,12 @@ namespace UI
                         break;
                 }
 
-                // 如果找到了匹配项，计算结果
+                // If a match is found, calculate the result
                 if (binaryOperation != null)
                 {
                     double result = binaryOperation.Calculate(num1, num2);
 
-                    // 将结果写回到文本框中
+                    // Write the result back into the text box
                     formation.Text = result.ToString();
                 }
             }
