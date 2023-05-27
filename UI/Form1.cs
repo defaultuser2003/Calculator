@@ -6,7 +6,6 @@ using System.Configuration;
 using IBinary;
 using IUnary;
 using Logging;
-using System.Linq.Expressions;
 
 namespace UI
 {
@@ -319,17 +318,17 @@ namespace UI
         private void logToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ILogger logger = LoggerFactory.CreateLogger();
-            string logContent = GetLogContentFromLogger(logger); // 从日志记录器对象获取日志内容
+            string logContent = GetLogContentFromLogger(logger); // Get log content from logger object
 
-            // 显示日志信息
+            // Display log information
             MessageBox.Show(logContent, "Log Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private string GetLogContentFromLogger(ILogger logger)
         {
-            // 从配置文件中读取日志文件路径
+            // Read the log file path from the configuration file
             string logFilePath = ConfigurationManager.AppSettings["LogFilePath"];
 
-            // 检查日志文件是否存在
+            // Check if the log file exists
             if (!File.Exists(logFilePath))
             {
                 return "Log file does not exist.";
@@ -337,14 +336,14 @@ namespace UI
 
             try
             {
-                // 读取日志文件内容
+                // Read the contents of the log file
                 string logContent = File.ReadAllText(logFilePath);
 
                 return logContent;
             }
             catch (IOException ex)
             {
-                // 处理读取文件异常
+                // Handling read file exceptions
                 return $"Failed to read log file: {ex.Message}";
             }
         }
