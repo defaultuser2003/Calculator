@@ -1,17 +1,8 @@
 ﻿using System;
 using System.Configuration;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IBinary
 {
-    /**
-    * Author arborshield
-    * Created by on 2023/4/2.
-    * Binary Operation Factory
-    */
     public class BinaryOperationFactory
     {
         public static IBinaryOperation CreateOperation(string operatorName)

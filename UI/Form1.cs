@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
+using System.IO;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
 using IBinary;
 using IUnary;
+using Logging;
+using System.Linq.Expressions;
 
 namespace UI
 {
@@ -212,6 +209,9 @@ namespace UI
                 {
                     double result = binaryOperation.Calculate(num1, num2);
 
+                    ILogger logger = LoggerFactory.CreateLogger();
+                    logger.Log($"Operation {expression} = {result}");
+
                     // Write the result back into the text box
                     formation.Text = result.ToString();
                 }
@@ -225,6 +225,10 @@ namespace UI
             {
                 IUnaryOperation operation = new ReciprocalOperation();
                 double result = operation.Calculate(inputNum);
+
+                ILogger logger = LoggerFactory.CreateLogger();
+                logger.Log($"Operation rec {inputNum} = {result}");
+
                 formation.Text = result.ToString();
             }
         }
@@ -236,6 +240,10 @@ namespace UI
             {
                 IUnaryOperation operation = new SquareOperation();
                 double result = operation.Calculate(inputNum);
+
+                ILogger logger = LoggerFactory.CreateLogger();
+                logger.Log($"Operation square {inputNum} = {result}");
+
                 formation.Text = result.ToString();
             }
         }
@@ -247,6 +255,10 @@ namespace UI
             {
                 IUnaryOperation operation = new SqrtOperation();
                 double result = operation.Calculate(inputNum);
+
+                ILogger logger = LoggerFactory.CreateLogger();
+                logger.Log($"Operation sqrt {inputNum} = {result}");
+
                 formation.Text = result.ToString();
             }
         }
@@ -258,6 +270,10 @@ namespace UI
             {
                 IUnaryOperation operation = new AbsoluteOperation();
                 double result = operation.Calculate(inputNum);
+
+                ILogger logger = LoggerFactory.CreateLogger();
+                logger.Log($"Operation abs {inputNum} = {result}");
+
                 formation.Text = result.ToString();
             }
         }
@@ -268,6 +284,10 @@ namespace UI
             {
                 IUnaryOperation operation = new NegateOperation();
                 double result = operation.Calculate(inputNum);
+
+                ILogger logger = LoggerFactory.CreateLogger();
+                logger.Log($"Operation neg {inputNum} = {result}");
+
                 formation.Text = result.ToString();
             }
         }
@@ -293,6 +313,39 @@ namespace UI
             {
                 num /= 100;
                 formation.Text = num.ToString();
+            }
+        }
+
+        private void logToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ILogger logger = LoggerFactory.CreateLogger();
+            string logContent = GetLogContentFromLogger(logger); // 从日志记录器对象获取日志内容
+
+            // 显示日志信息
+            MessageBox.Show(logContent, "Log Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        private string GetLogContentFromLogger(ILogger logger)
+        {
+            // 从配置文件中读取日志文件路径
+            string logFilePath = ConfigurationManager.AppSettings["LogFilePath"];
+
+            // 检查日志文件是否存在
+            if (!File.Exists(logFilePath))
+            {
+                return "Log file does not exist.";
+            }
+
+            try
+            {
+                // 读取日志文件内容
+                string logContent = File.ReadAllText(logFilePath);
+
+                return logContent;
+            }
+            catch (IOException ex)
+            {
+                // 处理读取文件异常
+                return $"Failed to read log file: {ex.Message}";
             }
         }
     }

@@ -1,20 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Configuration;
-using System.Reflection;
+using Autofac;
 
 namespace Logging
 {
-    /**
-    * Author arborshield
-    * Created by on 2023/4/2.
-    * Logger Factory
-    */
     public class LoggerFactory
     {
+        private static IContainer container;
+
+        public static ContainerBuilder Configure()
+        {
+            var builder = new ContainerBuilder();
+
+            // Register the LoggerFactory class itself
+            builder.RegisterType<LoggerFactory>().SingleInstance();
+
+            // Register ILogger interface
+            builder.Register(c => LoggerFactory.CreateLogger()).As<ILogger>();
+
+            return builder;
+        }
+
         public static ILogger CreateLogger()
         {
             string loggerType = ConfigurationManager.AppSettings["LoggerType"];

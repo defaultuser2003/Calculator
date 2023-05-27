@@ -3,18 +3,9 @@ using IUnary;
 using IBinary;
 using Logging;
 using System.Configuration;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LogClient
 {
-    /**
-    * Author arborshield
-    * Created by on 2023/4/2.
-    * ClientTest
-    */
     class LClient
     {
         static void Main(string[] args)

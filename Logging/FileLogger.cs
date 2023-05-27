@@ -1,18 +1,8 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Configuration;
 
 namespace Logging
 {
-    /**
-    * Author arborshield
-    * Created by on 2023/4/2.
-    * FielLogger
-    */
     public class FileLogger : ILogger
     {
         private string filePath;

@@ -3,11 +3,6 @@ using System;
 
 namespace IBinaryClient
 {
-    /**
-    * Author arborshield
-    * Created by on 2023/4/2.
-    * ClientTest
-    */
     class IBClient
     {
         static void Main(string[] args)
