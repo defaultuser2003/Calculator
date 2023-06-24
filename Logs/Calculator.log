@@ -7,3 +7,13 @@
 5/27/2023 7:10:11 PM: Operation 2+3 = 5
 5/27/2023 7:14:31 PM: Operation 2+3 = 5
 5/27/2023 7:25:46 PM: Operation 77*33 = 2541
+6/24/2023 6:18:25 PM: Operation 1+2 = 3
+6/24/2023 6:20:47 PM: Operation rec 2 = 0.5
+6/24/2023 6:22:32 PM: Operation rec 2 = 0.5
+6/24/2023 6:22:34 PM: Operation square 0.5 = 0.25
+6/24/2023 6:22:36 PM: Operation sqrt 0.25 = 0.5
+6/24/2023 6:22:40 PM: Operation neg 0.5 = -0.5
+6/24/2023 6:22:41 PM: Operation abs -0.5 = 0.5
+6/24/2023 7:00:10 PM: Operation 2+1 = 3
+6/24/2023 7:09:12 PM: Operation 2+3 = 5
+6/24/2023 10:13:51 PM: Operation 2+1 = 3

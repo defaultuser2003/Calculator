@@ -1,0 +1,6 @@
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\bin\Debug\CalculatorThemes.dll
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\bin\Debug\CalculatorThemes.pdb
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\obj\Debug\CalculatorThemes.csproj.AssemblyReference.cache
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\obj\Debug\CalculatorThemes.csproj.CoreCompileInputs.cache
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\obj\Debug\CalculatorThemes.dll
+D:\VS\softwareDesign\simpleCalculator\CalculatorThemes\obj\Debug\CalculatorThemes.pdb

@@ -1,8 +1,10 @@
 ﻿using System;
 using System.IO;
+using System.ComponentModel.Composition;
 
 namespace Logging
 {
+    [Export(typeof(ILogger))]
     public class FileLogger : ILogger
     {
         private string filePath;
